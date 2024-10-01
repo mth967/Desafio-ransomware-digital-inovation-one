@@ -1,0 +1,1 @@
+Aqui temos o arquivo alvo que queremos encriptar
